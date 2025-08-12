@@ -8,9 +8,6 @@
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> — EAD<br>
   💡 Iniciando projetos e construindo uma nova carreira em programação
 </p>
-<p align="center">
-  <img src="LINK_DO_GIF" width="400">
-</p>
 ---
 
 ## 🚀 Tecnologias que estou estudando
