@@ -33,7 +33,6 @@
 
 ✨ Sempre aprendendo, sempre evoluindo!
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielaYancaBBaumhakl-design&show_icons=true&theme=tokyonight)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielaYanca&show_icons=true&theme=tokyonight)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaYanca&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaYancaBBaumhakl-design&layout=compact&theme=tokyonight)
