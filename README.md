@@ -9,9 +9,7 @@
   💡 Iniciando projetos e construindo uma nova carreira em programação
 </p>
 
-<p align="center">
-  <img src="COLE_AQUI_O_LINK_DO_GIF" width="300">
-</p>
+<img src="LINK_DO_GIF" width="200">
 ---
 
 ## 🚀 Tecnologias que estou estudando
