@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="160" src="https://avatars.githubusercontent.com/u/151570516?v=4" alt="Foto de perfil">
+  <img width="160" src="https://github.com/GabrielaYancaBBaumhakl-design.png" alt="Foto de perfil">
 </p>
 
 <h1 align="center">👋 Olá! Eu sou a Gabriela Yanca B Baumhakl</h1>
@@ -60,7 +60,7 @@
 
 ✨ Sempre aprendendo, sempre evoluindo!  
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielaYancaBBaumhakl&show_icons=true&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielaYancaBBaumhakl-design&show_icons=true&theme=tokyonight)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaYancaBBaumhakl&layout=compact&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaYancaBBaumhakl-design&layout=compact&theme=tokyonight)
 
