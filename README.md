@@ -56,3 +56,5 @@
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaYancaBBaumhakl-design&layout=compact&theme=tokyonight)
 
+![Contador de visitas](https://visitor-badge.laobi.icu/badge?page_id=GabrielaYancaBBaumhakl.GabrielaYancaBBaumhakl-design)
+
